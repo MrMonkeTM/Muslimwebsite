@@ -1,0 +1,174 @@
+body {
+    text-align: center;
+    margin: 0;
+}
+
+#coolor {
+    border: 5px solid blue;
+    color: black;
+}
+
+#coolor:hover {
+    background-color: lightgray;
+    border-radius: 10px;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: none;
+}
+
+.top {
+    display: flex;
+    align-items: start;
+    justify-content: center;
+}
+
+#seize {
+    width: 150px;
+    height: 150px;
+}
+
+.muslim-img {
+    display: flex;
+    border: 2px solid black;
+    padding: 430px;
+    background: url(https://media.discordapp.net/attachments/967513098359562270/1077721454562508810/muslim-img.jpg?width=1920&height=863);
+    background-size: cover;
+    flex-direction: column;
+    align-items: center;
+    color: whitesmoke;
+    border-radius: 10px;
+    background-repeat: no-repeat;
+    margin-bottom: 0%;
+}
+
+@font-face {
+    src: url("Sectar.otf");
+    font-family: Sectar;
+}
+
+@font-face {
+    src: url("2921-font.otf");
+    font-family: Conor;
+}
+
+@font-face {
+    src: url("Dialien-lgpJX.otf");
+    font-family: Dialen;
+}
+
+#bday-age {
+    font-size: 60px;
+    font-family: Sectar;
+    background: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+    border-radius: 20px;
+}
+
+#image {
+    font-family: Death;
+    height: 200px;
+    width: 200px;
+    background: white;
+    border: 5px solid white;
+    border-radius: 50%;
+}
+
+#image:hover {
+    background: grey;
+    border: 5px solid grey;
+}
+
+.formality {
+    margin: 0;
+    margin-top: 20px;
+    font-family: Conor;
+    font-size: 60px;
+    border-bottom: 2px solid blue;
+}
+
+.lec {
+    font-size: xx-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background: blue;
+    border-color: blue;
+    color: none;
+}
+
+.lec:hover {
+    background: darkblue;
+}
+
+.abtme {
+    margin: 0;
+    font-family: Dialen;
+    text-align: center;
+    font-size: 150px;
+}
+
+.abme {
+    margin-top: 40px;
+    margin-bottom: 0;
+}
+
+.abus {
+    text-decoration: none;
+    color: #000;
+    margin-bottom: 0%;
+    padding-right: 10px;
+    padding-left: 10px;
+    border-bottom: none;
+}
+
+.abus:hover {
+    cursor: pointer;
+    border-radius: 15px;
+    padding-top: 35px;
+    padding-bottom: 5px;
+    color: whitesmoke;
+    background-color: black;
+}
+
+.dna {
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.dna:hover {
+    cursor: pointer;
+    border-radius: 15px;
+    padding-top: 35px;
+    padding-bottom: 5px;
+    color: whitesmoke;
+    background-color: black;
+}
+
+.merch {
+    color: #000;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.merch:hover {
+    cursor: pointer;
+    border-radius: 15px;
+    padding-top: 35px;
+    padding-bottom: 5px;
+    color: whitesmoke;
+    background-color: black;
+}

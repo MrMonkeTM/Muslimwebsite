@@ -1,0 +1,50 @@
+body {
+    background-color: aqua;
+    margin: 0;
+}
+
+@font-face {
+    src: url("Sectar.otf");
+    font-family: Sectar;
+}
+
+@font-face {
+    src: url("2921-font.otf");
+    font-family: Conor;
+}
+
+@font-face {
+    src: url("Dialien-lgpJX.otf");
+    font-family: Dialen;
+}
+
+.foint {
+    margin-left: 20px;
+    font-family: Sectar;
+    font-size: 50px;
+    border-bottom: 5px dotted red;
+    margin-bottom: 0%;
+}
+
+.marrgin {
+    background-image: url(https://cdn-icons-png.flaticon.com/512/84/84661.png);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    background-size: cover;
+    width: 800px;
+    height: 800px;
+    margin-top: 0px;
+    text-align: center;
+    font-family: Conor;
+    font-size: 40px;
+    color: grey;
+    text-shadow: black 5px 5px 5px;
+}
+
+#kaaba {
+    margin: 0;
+    height: 300px;
+    width: 300px;
+}

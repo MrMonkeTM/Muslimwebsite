@@ -1,0 +1,19 @@
+body {
+    font-family: hack;
+    color: greenyellow;
+    background-color: black;
+}
+
+p {
+    font-size: 50px;
+}
+
+#underscore {
+    width: 50px;
+    border-bottom: 5px greenyellow solid;
+}
+
+@font-face {
+    src: url("Hack-Regular.ttf");
+    font-family: hack;
+}
